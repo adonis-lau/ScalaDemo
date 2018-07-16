@@ -1,4 +1,4 @@
-package bid.adonis.lau
+package bid.adonis.lau.learn
 
 trait Equal {
   //未实现的方法

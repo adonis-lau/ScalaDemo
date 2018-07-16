@@ -1,4 +1,4 @@
-package bid.adonis.lau
+package bid.adonis.lau.learn
 
 /**
   * 函数

@@ -1,4 +1,4 @@
-package bid.adonis.lau
+package bid.adonis.lau.learn
 
 object IfElse {
   def main(args: Array[String]): Unit = {

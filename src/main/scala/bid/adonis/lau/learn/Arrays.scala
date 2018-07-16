@@ -1,6 +1,6 @@
-package bid.adonis.lau
+package bid.adonis.lau.learn
 
-import Array._
+import scala.Array._
 
 object Arrays {
   def main(args: Array[String]): Unit = {
