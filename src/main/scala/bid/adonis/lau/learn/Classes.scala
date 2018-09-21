@@ -1,4 +1,4 @@
-package bid.adonis.lau
+package bid.adonis.lau.learn
 
 class Point(val xc: Int, val yc: Int) {
   var x: Int = xc

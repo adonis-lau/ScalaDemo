@@ -1,4 +1,4 @@
-package bid.adonis.lau
+package bid.adonis.lau.learn
 
 import java.io.{BufferedReader, File, InputStreamReader, PrintWriter}
 
